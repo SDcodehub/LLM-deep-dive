@@ -1,7 +1,3 @@
-This lecture, "Everything You Didn't Want To Know About LM Architecture And Training," dives into the specific details of **Large Language Model (LLM) architectures** and their **hyperparameters**, drawing insights from the extensive empirical work in the field. The goal is to understand what design choices are critical for building effective transformers.
-
----
-
 ## Transformer Architecture Variants
 
 The lecture begins with a recap of the **original transformer** and then introduces a **modern consensus variant** that students implement. It then takes a data-driven approach, analyzing recent LLM releases to identify convergent evolution in architectural choices.
